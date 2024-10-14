@@ -1,0 +1,32 @@
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    color: blue;
+    text-align: center;
+  }
+
+  #Logo {
+    flex-basis: 25%;
+  }
+
+  #Home {
+    flex-basis: 12.5%;
+  }
+
+  #AboutMe {
+    flex-basis: 12.5%
+  }
+
+  #MyProjects {
+    flex-basis: 12.5%
+  }
+
+  #Contact {
+    flex-basis: 12.5%
+  }
+
+  #login {
+    flex-basis: 25%;
+  }
